@@ -4,7 +4,6 @@ import java.io.*;
 /* COSC 1P03
  * ASSIGNMENT #1
  * Name: (Karanjot Pabla)
- * Student #: (6231377)
  *
  * This program applies the conditions present in 
  * Conway's Game of Life and makes it possible to
