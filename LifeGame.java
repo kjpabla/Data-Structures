@@ -1,8 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-/* COSC 1P03
- * ASSIGNMENT #1
+/* 
  * Name: (Karanjot Pabla)
  *
  * This program applies the conditions present in 
