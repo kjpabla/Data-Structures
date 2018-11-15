@@ -1,0 +1,36 @@
+3	4
+0	0	1	1
+0	1	1	1
+0	0	1	0
+
+Comments are fine down here because it only needs to read 12 elements.
+Format is:
+r	c
+x	x...
+x	x...
+...
+
+Note that values are tab-separated
+
+For this particular initial grid state:
+After first iteration:
+1	0	0	0
+1	1	0	0
+1	0	0	0
+
+After second iteration:
+1	0	0	1
+1	1	0	1
+1	0	0	1
+
+After third iteration:
+0	0	0	0
+0	1	0	0
+0	0	0	0
+
+After fourth iteration:
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+And the all-zeroes repeats for every iteration after that.
